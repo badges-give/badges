@@ -38,7 +38,6 @@
 ## Magical Logik 
 - ``\land`` ist $`\land`$
 - ``\lor`` ist $`\lor`$
-- ``\isin`` ist $`\isin`$
 - ``\net`` ist $`\neg`$
 - ``\exists`` ist $``\exists``$
 
