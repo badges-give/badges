@@ -1,6 +1,5 @@
 # Die wichtigesten Schreibweisen für Mathe-Stuff in GitLab-Flavoured Markdown
 
-$`\href{https://katex.org/docs/supported.html}{\KaTeX}`$
 
 ``Alle ausdrücke sind mit \displaystyle versehen``
 
