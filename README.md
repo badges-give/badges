@@ -1,4 +1,4 @@
-# Die wichtigsten Schreibweisen für Mathe-Stuff in GitHub-Flavoured Markdown
+
 
 [KaTeX](https://katex.org/docs/supported.html)
 
