@@ -19,8 +19,6 @@
 - ``\cdot`` ist $`\displaystyle\cdot`$
 - ``\div`` ist $`\displaystyle\div`$
 - ``\times`` ist $`\displaystyle\times`$
-- ``\sube`` ist $`\sube`$
-- ``\supe`` ist $`\supe`$ 
 - ``\empty`` ist $`\empty`$
 
 ## Buchstaben
