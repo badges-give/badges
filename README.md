@@ -19,7 +19,6 @@
 - ``\cdot`` ist $`\displaystyle\cdot`$
 - ``\div`` ist $`\displaystyle\div`$
 - ``\times`` ist $`\displaystyle\times`$
-- ``\empty`` ist $`\empty`$
 
 ## Buchstaben
 
@@ -49,7 +48,6 @@
 - ``\sqrt{x}`` ist $`\displaystyle\sqrt{x}`$
 - ``\sqrt[x]{x}`` ist $`\displaystyle\sqrt[x]{x}`$
 - ``\frac{x}{y}`` ist $`\displaystyle\frac{x}{y}`$
-- ``\overrightharpoon{ab}`` ist $`\displaystyle\overrightharpoon{ab}`$
 
 ## Modifier
 - ``x'`` ist $`\displaystyle x'`$
